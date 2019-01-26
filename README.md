@@ -1,1 +1,5 @@
-# vSmartSwitch-Wemos-Relay
+# vSmartSwitch
+
+## Model Wemos Relay
+
+### Version 0.1.2
